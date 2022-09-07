@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @dene009
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects in Python programming and Data Analyst 
-- 📫 How to reach me esidene009@gmail.com
+- 👀 I’m currently ... A student of the ALX SE Program
+- 🌱 I’m currently being trained to be a seasoned software engineer
+- 💞️ I’m looking to collaborate on Projects related to c, Python, Js, SQL.
+- 📫 I’m looking for help with Internships, job openings, oppourtunities that will further contibute to my growth as a software engineer
+      
+      How to reach me esidene009@gmail.com
 
 <!---
 dene009/dene009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
