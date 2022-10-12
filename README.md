@@ -4,6 +4,9 @@
 <h3 align="center">i am passionate about Solving Problems and Software Engineering from Nigeria.</h3>
 
 
+
+
+
 - 👋 Hi, I’m fun to learn with and a good team player
 - 👀 I’m currently ... A student of the ALX SE Program
 - 🌱 I’m currently being trained to be a seasoned software engineer
