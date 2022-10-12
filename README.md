@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @dene009
+
+
+<h1 align="center">Hi 👋, I'm Esidene Alicha </h1>
+<h3 align="center">i am passionate about Solving Problems and Software Engineering from Nigeria.</h3>
+
+
+- 👋 Hi, I’m fun to learn with and a good team player
 - 👀 I’m currently ... A student of the ALX SE Program
 - 🌱 I’m currently being trained to be a seasoned software engineer
 - 💞️ I’m looking to collaborate on Projects related to c, Python, Js, SQL.
