@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on Projects related to c, Python, Js, SQL.
 - 📫 I’m looking for help with Internships, job openings, oppourtunities that will further contibute to my growth as a software engineer
       
-      How to reach me esidene009@gmail.com
+                                           How to reach me esidene009@gmail.com
 
 <!---
 dene009/dene009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
