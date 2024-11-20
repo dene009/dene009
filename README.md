@@ -14,7 +14,7 @@
 <h2 align="center">🌟 About Me 🌟</h2>
 
 <p>
-  Hello! I'm <strong>[Your Full Name]</strong>, a passionate and driven <strong>Software Engineer</strong> and a proud graduate of the 
+  Hello! I'm <strong>Esidene Alicha</strong>, a passionate and driven <strong>Software Engineer</strong> and a proud graduate of the 
   <a href="https://www.alxafrica.com/software-engineering/" target="_blank">ALX Software Engineering Program</a>. This is where my journey with coding began, 
   sparking my curiosity and determination to create impactful solutions through technology. I specialize in <strong>Backend Development</strong> and am 
   constantly inspired by innovation and collaboration.
@@ -47,8 +47,8 @@
   <li>
     <strong>Event Planning Platform</strong>: A robust platform enabling users to plan and manage events seamlessly.
     <ul>
-      <li>Role: Backend Developer</li>
-      <li>Tech Stack: Django, PostgreSQL</li>
+      <li>Role: Fullstack Developer</li>
+      <li>Tech Stack: React, Node.js, MongoDB</li>
       <li>
         Highlights: Implemented authentication, scheduling modules, and APIs for real-time event management.
         <br/>
@@ -83,7 +83,7 @@
 <h2 align="center">📫 Connect with Me 📫</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/EsideneAlicha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
