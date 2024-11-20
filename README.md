@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Esidene Alicha </h1>
-<h3 align="center"> I am passionate about Solving Problems in Industrial and Systems Engineering, Software Engineering and DevOps Engineering.</h3>
+<h3 align="center"> I am enthusiastic about Solving Problems in Industrial and Systems Engineering, Software Engineering and DevOps Engineering.</h3>
 
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 <p align="center">
@@ -84,7 +84,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/esidene-alicha-2335264b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:esidene009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -93,11 +93,3 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" alt="Visitor Badge"/>
 </p>
-
-      
-                                           How to reach me esidene009@gmail.com
-
-<!---
-dene009/dene009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
