@@ -6,7 +6,7 @@
 
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/banner.png" alt="Banner" width="800"/>
+  <img src="https://github.com/dene009/dene009/blob/main/assets/banner.png" alt="Banner" width="800"/>
 </p>
 
 ---
