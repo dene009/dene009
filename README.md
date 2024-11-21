@@ -30,11 +30,11 @@
     <td><strong>Python</strong>, <strong>JavaScript</strong>, <strong>C</strong>, <strong>SQL</strong>, <strong>PHP</strong></td>
   </tr>
   <tr>
-   <td><img src="https://img.shields.io/badge/Frameworks-%26-Libraries-green?style=flat-square"/></td>
+   <td><img src="https://img.shields.io/badge/Frameworks-Libraries-green?style=flat-square"/></td>
     <td><strong>Django</strong>, <strong>Flask</strong>, <strong>Node.js</strong>, <strong>React</strong>, <strong>Express.js</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Tools-&-Platforms-orange?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/Tools-Platforms-orange?style=flat-square"/></td>
     <td><strong>Git</strong>, <strong>Docker</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>Linux</strong></td>
   </tr>
 </table>
@@ -75,7 +75,7 @@
 <h2 align="center">✨ Inspiration & Passion ✨</h2>
 
 <p>
-  I'm inspired by innovation that solves real-world problems and connects people. My journey in software engineering is fueled by a deep passion for building scalable systems and fostering impactful collaborations.
+  I'm inspired by innovation that solves real-world problems and driven by curiosity. My journey in software engineering is fueled by a deep passion for building scalable systems and fostering impactful collaborations.
 </p>
 
 ---
