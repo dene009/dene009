@@ -5,10 +5,6 @@
 <h3 align="center"> I am enthusiastic about Solving Problems in Industrial and Systems Engineering, Software Engineering and DevOps Engineering.</h3>
 
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
-<p align="center">
-  <img src="https://github.com/dene009/dene009/blob/main/assets/banner.png" alt="Banner" width="800"/>
-</p>
-
 ---
 
 <h2 align="center">🌟 About Me 🌟</h2>
