@@ -30,7 +30,7 @@
     <td><strong>Python</strong>, <strong>JavaScript</strong>, <strong>C</strong>, <strong>SQL</strong>, <strong>PHP</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Frameworks-&-Libraries-green?style=flat-square"/></td>
+   <td><img src="https://img.shields.io/badge/Frameworks-%26-Libraries-green?style=flat-square"/></td>
     <td><strong>Django</strong>, <strong>Flask</strong>, <strong>Node.js</strong>, <strong>React</strong>, <strong>Express.js</strong></td>
   </tr>
   <tr>
