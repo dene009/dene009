@@ -5,7 +5,6 @@
 <h3 align="center"> I am enthusiastic about Solving Problems in Industrial and Systems Engineering, Software Engineering and DevOps Engineering.</h3>
 
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
----
 
 <h2 align="center">🌟 About Me 🌟</h2>
 
