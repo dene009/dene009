@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Esidene Alicha </h1>
-<h3 align="center"> I am enthusiastic about Solving Problems in Industrial and Systems Engineering, Software Engineering and DevOps Engineering.</h3>
+<h3 align="center"> I am enthusiastic about Solving Problems in Industrial and Systems Engineering, Software Engineering and Cloud Engineering with DevOps Skills.</h3>
 
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
@@ -11,7 +11,7 @@
 <p>
   Hello! I'm <strong>Esidene Alicha</strong>, a passionate and driven <strong>Software Engineer</strong> and a proud graduate of the 
   <a href="https://www.alxafrica.com/software-engineering/" target="_blank">ALX Software Engineering Program</a>. This is where my journey with coding began, 
-  sparking my curiosity and determination to create impactful solutions through technology. I specialize in <strong>Backend Development</strong> and am 
+  sparking my curiosity and determination to create impactful solutions through technology. I specialize in <strong>Fullstack Development</strong> and am 
   constantly inspired by innovation and collaboration.
 </p>
 
