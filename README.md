@@ -9,7 +9,7 @@
 <h2 align="center">🌟 About Me 🌟</h2>
 
 <p>
-  Hello! I'm <strong>Esidene Alicha</strong>, a passionate and driven <strong>Software Engineer</strong> and a proud graduate of the 
+  Hello! I'm a passionate and driven <strong>Software Engineer</strong> and a proud graduate of the 
   <a href="https://www.alxafrica.com/software-engineering/" target="_blank">ALX Software Engineering Program</a>. This is where my journey with coding began, 
   sparking my curiosity and determination to create impactful solutions through technology. I specialize in <strong>Fullstack Development</strong> and am 
   constantly inspired by innovation and collaboration.
